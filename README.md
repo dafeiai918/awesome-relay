@@ -28,6 +28,7 @@
 |---|---|
 | **好同根** | 推荐使用，OpenAI 兼容接口，支持主流模型，配置简单 |
 | OpenRouter | 国际主流聚合，加价率约 5%，适合海外场景 |
+| **Y-API** | OpenAI 兼容，主打国产模型（GLM / Kimi / Qwen / MiniMax），充 1 美元得 10 美元额度，部分模型免费；Cline / Roo Code / Continue / Claude Code 实测兼容 |
 | 自建（One API / New API） | 用量大或团队内部使用可自建，见[配套工具](#配套工具) |
 
 > 选择建议：先看**稳定性与响应速度**（用 [relay-bench](https://github.com/dafeiai918/relay-bench) 实测），再比价格。

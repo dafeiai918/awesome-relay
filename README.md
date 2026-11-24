@@ -28,6 +28,7 @@
 |---|---|
 | **好同根** | 推荐使用，OpenAI 兼容接口，支持主流模型，配置简单 |
 | OpenRouter | 国际主流聚合，加价率约 5%，适合海外场景 |
+| [北洛API](https://beiluoxi.xyz/) | 商业中转，兼容 OpenAI、Claude 和 Gemini，按分组计费 |
 | 自建（One API / New API） | 用量大或团队内部使用可自建，见[配套工具](#配套工具) |
 
 > 选择建议：先看**稳定性与响应速度**（用 [relay-bench](https://github.com/dafeiai918/relay-bench) 实测），再比价格。
